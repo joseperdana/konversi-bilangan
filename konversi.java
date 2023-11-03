@@ -1,3 +1,5 @@
+// Nama: Jose Putra Perdana Taneo
+// NIM: 235150200111047
 package AOK;
 
 import java.util.Scanner;
